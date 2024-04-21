@@ -27,6 +27,8 @@ Como usar:
 
 Para usar o dashboard, basta baixar o arquivo.pbix e abrir-o com o Power BI. O dashboard está pronto para uso e não requer nenhuma configuração adicional.
 
-Créditos
+Créditos:
+
 Power BI
+
 Excel
